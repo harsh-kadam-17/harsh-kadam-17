@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:0d1117&height=200&section=header&text=Harsh%20Kadam&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%26%20TypeScript&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c853,100:0d1117&height=200&section=header&text=Harsh%20Kadam&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/harsh-kadam-17">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Harsh+Kadam;%24+building+things+that+work+%F0%9F%9A%80;%24+currently+learning+system+design;%24+open+to+collaborate+%F0%9F%A4%9D" alt="typing intro"/>
